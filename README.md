@@ -1,7 +1,7 @@
-# JinniProlog clone of heathmanb github repository
+# JinniProlog import from heathmanb github repository
 Jinni Prolog is a Java-based Prolog compiler and runtime system written by Paul Tarau, with objects, agents, multi-threading, networking, remote predicate calls, GUI, 2D and 3D graphics.
 
-### https://groups.google.com/forum/#!topic/comp.lang.prolog/P8uiqohApSQ
+#### https://groups.google.com/forum/#!topic/comp.lang.prolog/P8uiqohApSQ
 ```
 Paul Tarau	11/13/2012
 
